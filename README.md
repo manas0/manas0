@@ -1,5 +1,6 @@
 ## Hi there 👋, I am Manas <img align="right" src="https://komarev.com/ghpvc/?username=manas0&color=brightgreen" />
 
+I am a software engineer with a deep passion for mathematics.
 <!--
 **manas0/manas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
