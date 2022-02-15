@@ -1,4 +1,4 @@
-## Hi there 👋, I am Manas 
+## Hi there 👋, I am Manas <img align="right" src="https://komarev.com/ghpvc/?username=manas0&color=brightgreen" />
 
 <!--
 **manas0/manas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
