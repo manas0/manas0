@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Number Theory and its applications to cryptography.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manas0&theme=onedark&hide=css,html&layout=compact&border_radius=10&langs_count=4&exclude_repo=cp-templates)]()
-[![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas0&theme=onedark&show_icons=true&border_radius=10&hide=issues,prs)]()
+<<!--[![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas0&theme=onedark&show_icons=true&border_radius=10&hide=issues,prs)]()-->>
 
 <!--
 - 👯 I’m looking to collaborate on ...
