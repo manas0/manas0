@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building microservices with Go.
 - 🌱 I’m currently learning Number Theory and its applications to cryptography.
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manas0&theme=onedark&hide=css,html&layout=compact&border_radius=10&exclude_repo=salt-and-pepper-noise-removal)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manas0&theme=onedark&layout=compact&border_radius=10&exclude_repo=salt-and-pepper-noise-removal)]()
 <!--[![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas0&theme=onedark&show_icons=true&border_radius=10&hide=issues,prs)]()-->
 
 <!--
